@@ -13,7 +13,7 @@ Our solar experts will assess your home and energy needs.
 We'll create a custom solar plan for you.
 You'll receive a FREE Expert Solar Quote.
 What are you waiting for?
-</pre>pre>
+</pre>
 <b>Switch to solar power today and start saving money on your energy bills. Fill out our form to get started!</b><br>
 
 Here are some random questions we might ask you in our solar consultation:<br>
