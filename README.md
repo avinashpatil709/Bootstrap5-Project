@@ -23,6 +23,6 @@ What is your roof like?
 Do you have any trees or other obstructions that could affect the placement of solar panels?
 What is your budget for solar panels?
 When are you hoping to switch to solar power?
-We'll also answer any questions you have about solar power, so you can make an informed<br>decision about whether it's right for you.
+We'll also answer any questions you have about solar power, so you can make an informed-<br>decision about whether it's right for you.
 </pre></br>
 We're here to help you make the switch to solar power, so don't hesitate to contact us today!
